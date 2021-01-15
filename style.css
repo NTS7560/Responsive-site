@@ -1,0 +1,14 @@
+.first-image img {
+    width: 40%;
+    float: left;
+}
+.first-one img{
+    width: 20%;
+
+}
+.last-one img{
+    width: 50%;
+}
+.tough-one img{
+    width: 60%;
+}
